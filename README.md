@@ -94,33 +94,3 @@ That is, invocations look like this:
 ```bash
 ./schedule-tasks test/3-independent-tasks.tasks.in
 ```
-
-## Requested materials
-
-Please submit the following materials in two steps.
-
-First, send us a PR on this repo with a concise design document written
-in markdown. Strive for clarity rather than length! The design should 
-include a description of how your solution works and any trade-offs you
-have made. While not typical for a design doc, in this case, please include
-a short description of the tools you expect to use. For example, a Rust 
-installation or other build / interpreters / compilers.  
-
-We will review the design and give any guidance or suggestions we can
-before you write the code. Once the PR is merged, you can assume we
-agree with your approach and that correctly coding it will be a full
-and complete solution to the problem.
-
-Next, send us a PR with the code and any tests for your solution. Please
-include instructions for compiling and running any tests you have included.
-
-You must have a top-level "test" directory containing input files. We will
-run the submitted "schedule-tasks" command on each input file and your outputs
-to the associated output file. We will also add our own test files (you do not
-need to worry about name clashes with these files). 
-
-## Questions?
-
-If you have questions, please create your design or implementation PR early
-and use the discussion feature on the PR. This will ensure a prompt response
-from our engineering team.
