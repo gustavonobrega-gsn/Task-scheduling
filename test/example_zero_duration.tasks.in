@@ -1,0 +1,13 @@
+A(0)
+B(0) after [A]
+C(0)
+  after [A]
+D(0) after [B]
+F(0) after
+  [B,
+   C]
+G(0) after [C]
+H(0) after [D, F]
+I(0) after
+  [F, G]
+

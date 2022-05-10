@@ -1,0 +1,4 @@
+A(1)
+B(0) after [A]
+C(0) after [A,B]
+D(1) after [C]

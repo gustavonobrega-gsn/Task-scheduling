@@ -1,0 +1,3 @@
+Critical: A->D->C->E->H
+Minimum: 21
+Parallelism: 2

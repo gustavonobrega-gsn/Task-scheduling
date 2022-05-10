@@ -1,0 +1,15 @@
+M(1) after [Z,Y,W,X]
+X(1)
+D(1) after [M,N,O,P,Q,R,S]
+N(1) after [X,W,Y,Z]
+C(1) after [M,N,O,P,Q,R,S]
+Y(1)
+O(1) after [Y,X,W,Z]
+B(1) after [M,N,O,P,Q,R,S]
+P(1) after [X,W,Y,Z]
+A(1) after [M,N,O,P,Q,R,S]
+W(1)
+Q(1) after [X,W,Y,Z]
+R(1) after [X,W,Y,Z]
+S(1) after [X,W,Y,Z]
+Z(2)
